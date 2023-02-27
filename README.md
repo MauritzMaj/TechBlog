@@ -62,7 +62,7 @@ Created by user: MauritzMaj
 
 https://github.com/MauritzMaj/
 
-link to video tutorial: 
+link to app: https://salty-beach-98915.herokuapp.com/
 screenshot of application:
 
 
